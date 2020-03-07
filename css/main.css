@@ -1,0 +1,71 @@
+body{
+    font-family: Courier;
+}
+.body-back{
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.carousel-align{
+    position: absolute;
+    
+}
+.carousel-img{
+    height: 500px;
+    width: 100%;
+}
+.logo{
+    height: 520px;
+    width: 520px;
+}
+label{
+    color: white;
+}
+.footer-pos{
+    padding-top: 20px;
+}
+footer{
+    padding-bottom: 0;
+}
+.heading-item{
+    color: white;
+    background-color: darkgrey;
+}
+.btn-pos{
+    margin-left: 600px;
+    text-align: center;
+    position: relative;
+}
+.checked{
+    color: yellow;
+}
+.item-p{
+    
+    line-height: 2;
+}
+.item-about{
+    background-color: darkgrey;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding: 50px;
+}
+.price{
+    color: tomato;
+}
+
+.login-form{
+    margin-left: 400px;
+    margin-right: 400px;
+    padding: 50px;
+    background-color: darkgrey;
+}
+.buynow{
+    background-color: darkgrey;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 50px;
+}
+.Success{
+    margin: 400px;
+}
